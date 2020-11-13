@@ -10,5 +10,6 @@ Open terminal at AntiCovid/rcnn/cython and run: python3 setup.py build_ext --inp
 
 Back to AntiCovid and run: python3 test.py
 
+Press "q" to exit.
 
 
