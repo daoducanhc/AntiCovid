@@ -2,9 +2,10 @@
 
 Using pre-trained model mnet_cov2 and improve from RetinaFaceAntiCov project.
 
-# Required lib: cv2, mxnet, imutils, cython.
 
 # Usage:
+
+Required lib: cv2, mxnet, imutils, cython.
 
 Open terminal at AntiCovid/rcnn/cython and run: python3 setup.py build_ext --inplace
 
