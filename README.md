@@ -3,7 +3,7 @@
 Using pre-trained model mnet_cov2 and improve from RetinaFaceAntiCov project.
 
 
-# Usage:
+# Usage
 
 Required lib: cv2, mxnet, imutils, cython.
 
