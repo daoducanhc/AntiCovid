@@ -2,6 +2,8 @@
 
 Using pre-trained model mnet_cov2 and improve from RetinaFaceAntiCov project.
 
+![Live Demo](https://github.com/daoducanhc/AntiCovid/blob/main/demo.gif)
+
 
 # Usage
 
